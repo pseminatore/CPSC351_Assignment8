@@ -1,7 +1,7 @@
 # Patrick Seminatore
 # Diego Valdez
 # Thomas McDonald
-# Github Repo: pseminatore/CPSC351
+# Github Repo: pseminatore/CPSC351_Assignment8
 # python3 
 
 class DFA:
